@@ -11,6 +11,11 @@ A Python script to find possible admin panel paths on a target website.
 ## Disclaimer
 This tool is for educational purposes only.
 
+## Screenshots
+
+![Login Page](images/Screen01.png.png)
+![Scan Result](images/Screen02.png.png)
+
 <p align="center">
   <img src="images/Screen01.png" width="400"/>
   <img src="images/Screen02.png" width="400"/>
