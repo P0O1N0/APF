@@ -13,7 +13,7 @@ A multi-threaded web reconnaissance tool with a real-time cyberpunk telemetry da
 ```bash
 python APF.py
 ```
-*Automatically installs required dependencies (`flask`, `requests`) and launches the web dashboard at `http://127.0.0.1:5000`.*
+*Automatically installs required dependencies (`flask`, `requests`) and launches the web dashboard at.*
 
 <p align="center">
   <img src="images/Screen01.png" width="48%"/>
